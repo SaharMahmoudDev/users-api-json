@@ -1,0 +1,244 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ahmed Hassan",
+      "email": "ahmed.hassan@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=1",
+      "createdAt": "2026-01-02T10:15:00Z",
+      "password": "Ahmed@123"
+    },
+    {
+      "id": 2,
+      "name": "Nada Mahmoud",
+      "email": "nada.mahmoud@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=2",
+      "createdAt": "2026-01-04T09:20:00Z",
+      "password": "Nada@123"
+    },
+    {
+      "id": 3,
+      "name": "Sara Ali",
+      "email": "sara.ali@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=3",
+      "createdAt": "2026-01-05T12:10:00Z",
+      "password": "Sara@123"
+    },
+    {
+      "id": 4,
+      "name": "Mohamed Tarek",
+      "email": "mohamed.tarek@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=4",
+      "createdAt": "2026-01-06T14:00:00Z",
+      "password": "Mohamed@123"
+    },
+    {
+      "id": 5,
+      "name": "Mona Adel",
+      "email": "mona.adel@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=5",
+      "createdAt": "2026-01-07T08:45:00Z",
+      "password": "Mona@123"
+    },
+    {
+      "id": 6,
+      "name": "Youssef Khaled",
+      "email": "youssef.khaled@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=6",
+      "createdAt": "2026-01-08T11:30:00Z",
+      "password": "Youssef@123"
+    },
+    {
+      "id": 7,
+      "name": "Omar Samy",
+      "email": "omar.samy@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=7",
+      "createdAt": "2026-01-09T15:20:00Z",
+      "password": "Omar@123"
+    },
+    {
+      "id": 8,
+      "name": "Fatma Ibrahim",
+      "email": "fatma.ibrahim@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=8",
+      "createdAt": "2026-01-10T16:40:00Z",
+      "password": "Fatma@123"
+    },
+    {
+      "id": 9,
+      "name": "Ali Mostafa",
+      "email": "ali.mostafa@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=9",
+      "createdAt": "2026-01-11T09:50:00Z",
+      "password": "Ali@123"
+    },
+    {
+      "id": 10,
+      "name": "Hana Magdy",
+      "email": "hana.magdy@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=10",
+      "createdAt": "2026-01-12T13:25:00Z",
+      "password": "Hana@123"
+    },
+    {
+      "id": 11,
+      "name": "Karim Nabil",
+      "email": "karim.nabil@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=11",
+      "createdAt": "2026-01-13T10:35:00Z",
+      "password": "Karim@123"
+    },
+    {
+      "id": 12,
+      "name": "Reem Ashraf",
+      "email": "reem.ashraf@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=12",
+      "createdAt": "2026-01-14T17:10:00Z",
+      "password": "Reem@123"
+    },
+    {
+      "id": 13,
+      "name": "Mostafa Fathy",
+      "email": "mostafa.fathy@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=13",
+      "createdAt": "2026-01-15T11:45:00Z",
+      "password": "Mostafa@123"
+    },
+    {
+      "id": 14,
+      "name": "Aya Wael",
+      "email": "aya.wael@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=14",
+      "createdAt": "2026-01-16T14:55:00Z",
+      "password": "Aya@123"
+    },
+    {
+      "id": 15,
+      "name": "Mahmoud Essam",
+      "email": "mahmoud.essam@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=15",
+      "createdAt": "2026-01-17T08:30:00Z",
+      "password": "Mahmoud@123"
+    },
+    {
+      "id": 16,
+      "name": "Salma Hossam",
+      "email": "salma.hossam@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=16",
+      "createdAt": "2026-01-18T09:15:00Z",
+      "password": "Salma@123"
+    },
+    {
+      "id": 17,
+      "name": "Amr Diab",
+      "email": "amr.diab@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=17",
+      "createdAt": "2026-01-19T12:40:00Z",
+      "password": "Amr@123"
+    },
+    {
+      "id": 18,
+      "name": "Nour ElDin",
+      "email": "nour.eldin@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=18",
+      "createdAt": "2026-01-20T13:10:00Z",
+      "password": "Nour@123"
+    },
+    {
+      "id": 19,
+      "name": "Habiba Adel",
+      "email": "habiba.adel@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=19",
+      "createdAt": "2026-01-21T16:00:00Z",
+      "password": "Habiba@123"
+    },
+    {
+      "id": 20,
+      "name": "Khaled Anwar",
+      "email": "khaled.anwar@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=20",
+      "createdAt": "2026-01-22T10:10:00Z",
+      "password": "Khaled@123"
+    },
+    {
+      "id": 21,
+      "name": "Laila Saeed",
+      "email": "laila.saeed@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=21",
+      "createdAt": "2026-01-23T11:25:00Z",
+      "password": "Laila@123"
+    },
+    {
+      "id": 22,
+      "name": "Tamer Hosny",
+      "email": "tamer.hosny@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=22",
+      "createdAt": "2026-01-24T12:55:00Z",
+      "password": "Tamer@123"
+    },
+    {
+      "id": 23,
+      "name": "Dina Sherif",
+      "email": "dina.sherif@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=23",
+      "createdAt": "2026-01-25T15:35:00Z",
+      "password": "Dina@123"
+    },
+    {
+      "id": 24,
+      "name": "Sherif Adel",
+      "email": "sherif.adel@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=24",
+      "createdAt": "2026-01-26T18:20:00Z",
+      "password": "Sherif@123"
+    },
+    {
+      "id": 25,
+      "name": "Mai Ahmed",
+      "email": "mai.ahmed@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=25",
+      "createdAt": "2026-01-27T09:45:00Z",
+      "password": "Mai@123"
+    },
+    {
+      "id": 26,
+      "name": "Islam Farouk",
+      "email": "islam.farouk@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=26",
+      "createdAt": "2026-01-28T14:15:00Z",
+      "password": "Islam@123"
+    },
+    {
+      "id": 27,
+      "name": "Yara Nasser",
+      "email": "yara.nasser@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=27",
+      "createdAt": "2026-01-29T13:50:00Z",
+      "password": "Yara@123"
+    },
+    {
+      "id": 28,
+      "name": "Adham Sameh",
+      "email": "adham.sameh@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=28",
+      "createdAt": "2026-01-30T11:00:00Z",
+      "password": "Adham@123"
+    },
+    {
+      "id": 29,
+      "name": "Nesma Khalil",
+      "email": "nesma.khalil@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=29",
+      "createdAt": "2026-01-31T17:30:00Z",
+      "password": "Nesma@123"
+    },
+    {
+      "id": 30,
+      "name": "Hossam Adel",
+      "email": "hossam.adel@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=30",
+      "createdAt": "2026-02-01T10:00:00Z",
+      "password": "Hossam@123"
+    }
+  ]
+}
