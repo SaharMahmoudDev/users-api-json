@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "users-api",
+  "main": "src/index.js",
+  "compatibility_date": "2026-01-01",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "users-api-db",
+      "database_id": "1074206d-9971-4fba-a38c-386e7d446226",
+    },
+  ],
+}
